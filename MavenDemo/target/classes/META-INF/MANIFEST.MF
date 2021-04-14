@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Built-By: lenovo
-Build-Jdk: 15.0.2
-Main-Class: com.hcl.MavenDemo.App
-Created-By: Maven Integration for Eclipse
-
